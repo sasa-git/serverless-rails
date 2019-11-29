@@ -1,24 +1,9 @@
-# README
+# ドリコムハンズオンでのアプリのサンプル
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[ドキュメント](https://github.com/ohr486/ServerlessHandsOn2019/wiki)
 
-Things you may want to cover:
+サーバーレス化の元アプリ
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[ドキュメント](https://github.com/ohr486/ServerlessHandsOn2019/wiki)
+これをサーバーレス化していくよ
